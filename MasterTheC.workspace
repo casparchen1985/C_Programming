@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="MasterTheC" Database="" Version="10000">
+  <Project Name="L58-CalculateTax" Path="l58-Tax/l58-Tax.project" Active="No"/>
+  <Project Name="L64-GuessTheNumber" Path="L64-GuessTheNumber/L64-GuessTheNumber.project" Active="Yes"/>
+  <Project Name="lesson30" Path="L30/lesson30.project" Active="No"/>
+  <Project Name="lesson41" Path="L41/lesson41.project" Active="No"/>
+  <Project Name="lesson30" Path="L30/lesson30.project" Active="No"/>
+  <Project Name="lesson41" Path="L41/lesson41.project" Active="No"/>
+  <Project Name="lesson44-rectangle" Path="L44-rectangle/lesson44-rectangle.project" Active="No"/>
+  <Project Name="lesson49-Operators" Path="L49-Operators/lesson49-Operators.project" Active="No"/>
+  <Project Name="lesson53-sizeOf" Path="L53-sizeOf/lesson53-sizeOf.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="L44-Rectangle" ConfigName="Debug"/>
+      <Project Name="L49-Operator" ConfigName="Debug"/>
+      <Project Name="L53-SizeOf" ConfigName="Debug"/>
+      <Project Name="L58-CalculateTax" ConfigName="Debug"/>
+      <Project Name="L64-GuessTheNumber" ConfigName="Debug"/>
+      <Project Name="L30" ConfigName="Debug"/>
+      <Project Name="L41" ConfigName="Debug"/>
+      <Project Name="L30" ConfigName="Debug"/>
+      <Project Name="L41" ConfigName="Debug"/>
+      <Project Name="L44-Rectangle" ConfigName="Debug"/>
+      <Project Name="L49-Operator" ConfigName="Debug"/>
+      <Project Name="L53-SizeOf" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="L44-Rectangle" ConfigName="Release"/>
+      <Project Name="L49-Operator" ConfigName="Release"/>
+      <Project Name="L53-SizeOf" ConfigName="Release"/>
+      <Project Name="L58-CalculateTax" ConfigName="Release"/>
+      <Project Name="L64-GuessTheNumber" ConfigName="Release"/>
+      <Project Name="L30" ConfigName="Release"/>
+      <Project Name="L41" ConfigName="Release"/>
+      <Project Name="L30" ConfigName="Release"/>
+      <Project Name="L41" ConfigName="Release"/>
+      <Project Name="L44-Rectangle" ConfigName="Release"/>
+      <Project Name="L49-Operator" ConfigName="Release"/>
+      <Project Name="L53-SizeOf" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

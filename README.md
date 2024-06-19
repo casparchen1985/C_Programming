@@ -1,1 +1,1 @@
-# Mater the C Language
+# Master the C Language
