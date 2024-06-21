@@ -1,2 +1,8 @@
+/Users/casparchen/Documents/CodeLite/MasterTheC/L68-FindPrimeNumber/main.c
+/Users/casparchen/Documents/CodeLite/MasterTheC/L49-Operators/main.c
+/Users/casparchen/Documents/CodeLite/MasterTheC/L44-rectangle/main.c
 /Users/casparchen/Documents/CodeLite/MasterTheC/L64-GuessTheNumber/main.c
+/Users/casparchen/Documents/CodeLite/MasterTheC/L41/main.c
+/Users/casparchen/Documents/CodeLite/MasterTheC/L53-sizeOf/main.c
+/Users/casparchen/Documents/CodeLite/MasterTheC/L30/test.c
 /Users/casparchen/Documents/CodeLite/MasterTheC/l58-Tax/main.c

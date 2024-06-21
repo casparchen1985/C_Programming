@@ -1,7 +1,31 @@
 [{
+  "file": "/Users/casparchen/Documents/CodeLite/MasterTheC/L68-FindPrimeNumber/main.c",
+  "directory": "/Users/casparchen/Documents/CodeLite/MasterTheC/L68-FindPrimeNumber",
+  "command": "/usr/bin/gcc -c /Users/casparchen/Documents/CodeLite/MasterTheC/L68-FindPrimeNumber/main.c -o /Users/casparchen/Documents/CodeLite/MasterTheC/L68-FindPrimeNumber/main.c.o -target x86_64-apple-darwin23.4.0 -I/usr/local/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/casparchen/Documents/CodeLite/MasterTheC/L49-Operators/main.c",
+  "directory": "/Users/casparchen/Documents/CodeLite/MasterTheC/L49-Operators",
+  "command": "/usr/bin/gcc -c /Users/casparchen/Documents/CodeLite/MasterTheC/L49-Operators/main.c -o /Users/casparchen/Documents/CodeLite/MasterTheC/L49-Operators/main.c.o -target x86_64-apple-darwin23.4.0 -I/usr/local/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/casparchen/Documents/CodeLite/MasterTheC/L44-rectangle/main.c",
+  "directory": "/Users/casparchen/Documents/CodeLite/MasterTheC/L44-rectangle",
+  "command": "/usr/bin/gcc -c /Users/casparchen/Documents/CodeLite/MasterTheC/L44-rectangle/main.c -o /Users/casparchen/Documents/CodeLite/MasterTheC/L44-rectangle/main.c.o -target x86_64-apple-darwin23.4.0 -I/usr/local/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
+ }, {
   "file": "/Users/casparchen/Documents/CodeLite/MasterTheC/L64-GuessTheNumber/main.c",
   "directory": "/Users/casparchen/Documents/CodeLite/MasterTheC/L64-GuessTheNumber",
   "command": "/usr/bin/gcc -c /Users/casparchen/Documents/CodeLite/MasterTheC/L64-GuessTheNumber/main.c -o /Users/casparchen/Documents/CodeLite/MasterTheC/L64-GuessTheNumber/main.c.o -target x86_64-apple-darwin23.4.0 -I/usr/local/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/casparchen/Documents/CodeLite/MasterTheC/L41/main.c",
+  "directory": "/Users/casparchen/Documents/CodeLite/MasterTheC/L41",
+  "command": "/usr/bin/gcc -c /Users/casparchen/Documents/CodeLite/MasterTheC/L41/main.c -o /Users/casparchen/Documents/CodeLite/MasterTheC/L41/main.c.o -target x86_64-apple-darwin23.4.0 -I/usr/local/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/casparchen/Documents/CodeLite/MasterTheC/L53-sizeOf/main.c",
+  "directory": "/Users/casparchen/Documents/CodeLite/MasterTheC/L53-sizeOf",
+  "command": "/usr/bin/gcc -c /Users/casparchen/Documents/CodeLite/MasterTheC/L53-sizeOf/main.c -o /Users/casparchen/Documents/CodeLite/MasterTheC/L53-sizeOf/main.c.o -target x86_64-apple-darwin23.4.0 -I/usr/local/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/Users/casparchen/Documents/CodeLite/MasterTheC/L30/test.c",
+  "directory": "/Users/casparchen/Documents/CodeLite/MasterTheC/L30",
+  "command": "/usr/bin/gcc -c /Users/casparchen/Documents/CodeLite/MasterTheC/L30/test.c -o /Users/casparchen/Documents/CodeLite/MasterTheC/L30/test.c.o -target x86_64-apple-darwin23.4.0 -I/usr/local/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
  }, {
   "file": "/Users/casparchen/Documents/CodeLite/MasterTheC/l58-Tax/main.c",
   "directory": "/Users/casparchen/Documents/CodeLite/MasterTheC/l58-Tax",
