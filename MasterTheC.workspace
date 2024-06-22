@@ -9,7 +9,8 @@
   <Project Name="lesson44-rectangle" Path="L44-rectangle/lesson44-rectangle.project" Active="No"/>
   <Project Name="lesson49-Operators" Path="L49-Operators/lesson49-Operators.project" Active="No"/>
   <Project Name="lesson53-sizeOf" Path="L53-sizeOf/lesson53-sizeOf.project" Active="No"/>
-  <Project Name="L68-FindPrimeNumber" Path="L68-FindPrimeNumber/L68-FindPrimeNumber.project" Active="Yes"/>
+  <Project Name="L68-FindPrimeNumber" Path="L68-FindPrimeNumber/L68-FindPrimeNumber.project" Active="No"/>
+  <Project Name="L71-SimpleWeatherProgram" Path="L71-SimpleWeatherProgram/L71-SimpleWeatherProgram.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -26,6 +27,7 @@
       <Project Name="L49-Operator" ConfigName="Debug"/>
       <Project Name="L53-SizeOf" ConfigName="Debug"/>
       <Project Name="L68-FindPrimeNumber" ConfigName="Debug"/>
+      <Project Name="L71-SimpleWeatherProgram" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -42,6 +44,7 @@
       <Project Name="L49-Operator" ConfigName="Release"/>
       <Project Name="L53-SizeOf" ConfigName="Release"/>
       <Project Name="L68-FindPrimeNumber" ConfigName="Release"/>
+      <Project Name="L71-SimpleWeatherProgram" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

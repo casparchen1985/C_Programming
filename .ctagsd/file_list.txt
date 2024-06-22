@@ -1,3 +1,4 @@
+/Users/casparchen/Documents/CodeLite/MasterTheC/L71-SimpleWeatherProgram/main.c
 /Users/casparchen/Documents/CodeLite/MasterTheC/L68-FindPrimeNumber/main.c
 /Users/casparchen/Documents/CodeLite/MasterTheC/L49-Operators/main.c
 /Users/casparchen/Documents/CodeLite/MasterTheC/L44-rectangle/main.c
