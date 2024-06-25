@@ -3,6 +3,7 @@
 
 #define YEAR_COUNT 5
 #define MONTH_COUNT 12
+
 int main(int argc, char **argv) {
     float Precipitation[YEAR_COUNT][MONTH_COUNT] = {
         {118.0, 82.5, 135.0, 109.5, 124.5, 146.0, 122.5, 37.5, 161.6, 51.0, 99.0, 110.5},
@@ -14,7 +15,6 @@ int main(int argc, char **argv) {
     
     float yearSumArray[YEAR_COUNT];
     float monthSumArray[MONTH_COUNT];
-    
     for(int yearIndex = 0; yearIndex < YEAR_COUNT; ++yearIndex ) {
         float thisYear = 0.0;
         
@@ -33,8 +33,8 @@ int main(int argc, char **argv) {
         allYearsSum += yearSumArray[i];
     }
     printf("for %d year%sis:\n%.1f\n\n", YEAR_COUNT, YEAR_COUNT > 1 ? "s " : " ",  allYearsSum /5);
+    
     printf("for each month in %d year%s:\n",YEAR_COUNT, YEAR_COUNT > 1 ? "s" : "");
- 
     float singleMonthAverage[MONTH_COUNT];
     for (int i = 0; i < MONTH_COUNT; ++i) {
         float average = monthSumArray[i] / YEAR_COUNT ;
