@@ -4,16 +4,9 @@
   <wxString Value="/Users/casparchen/Documents/CodeLite/MasterTheC/MasterTheC.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
-      <wxString Value="/Users/casparchen/Documents/CodeLite/MasterTheC/L64-GuessTheNumber/main.c" Name="FileName"/>
-      <int Value="1" Name="FirstVisibleLine"/>
-      <int Value="9" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
-      <wxString Value="/Users/casparchen/Documents/CodeLite/MasterTheC/l58-Tax/main.c" Name="FileName"/>
+      <wxString Value="/Users/casparchen/Documents/CodeLite/MasterTheC/L79-SomeFunctions/main.c" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="0" Name="CurrentLine"/>
+      <int Value="7" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
