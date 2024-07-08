@@ -1,4 +1,8 @@
 [{
+  "file": "/Users/casparchen/Documents/CodeLite/MasterTheC/L81-TicTacToe/main.c",
+  "directory": "/Users/casparchen/Documents/CodeLite/MasterTheC/L81-TicTacToe",
+  "command": "/usr/bin/gcc -c /Users/casparchen/Documents/CodeLite/MasterTheC/L81-TicTacToe/main.c -o /Users/casparchen/Documents/CodeLite/MasterTheC/L81-TicTacToe/main.c.o -target x86_64-apple-darwin23.4.0 -I/usr/local/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
+ }, {
   "file": "/Users/casparchen/Documents/CodeLite/MasterTheC/L71-SimpleWeatherProgram/main.c",
   "directory": "/Users/casparchen/Documents/CodeLite/MasterTheC/L71-SimpleWeatherProgram",
   "command": "/usr/bin/gcc -c /Users/casparchen/Documents/CodeLite/MasterTheC/L71-SimpleWeatherProgram/main.c -o /Users/casparchen/Documents/CodeLite/MasterTheC/L71-SimpleWeatherProgram/main.c.o -target x86_64-apple-darwin23.4.0 -I/usr/local/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -Wall"
